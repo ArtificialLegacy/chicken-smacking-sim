@@ -1,0 +1,117 @@
+// Patch 1.1.1
+// Halved the first upgrade cost
+// Added a sound to the upgrade button
+// Added timer
+// Recolored the GUI
+// Added second chicken
+// nerfed second chicken
+// made spc's base cost 25 from 50
+
+// Patch 1.1.2
+// Added ticks and seconds to the timer
+// Added autosmackers
+// buffed second chicken
+// made spc's base cost 50 from 25
+// renamed "Upgrade Speed" to "Upgrade SPC"
+
+// Patch 1.2.0
+// made autoclicker's base cost 150 from 1000
+// buffed autoclicker, now gives 10 more sps; (75 to 85)
+// Added prestige
+// added chicken at 5mill
+// added chicken at 20mill
+
+// Patch 1.2.1
+// added mute option
+// renamed clicks to smacks
+// moved the stats over by 40 pixels
+// removed "Current" from time stat
+// compacted time stat
+// did some hopefully major optimizations
+// tried to fix the text issues on mobile
+
+// Patch 1.2.2
+// hotfixed the mobile text issue
+// hotfix for the mute button on mobile
+
+// Patch 1.3.0
+// Furthur fixed mobile text
+// Added a shop GUI
+// renamed autoclicker to autosmacker
+
+// Patch 1.3.1
+// minor changes to mobile text
+// New Smack Cannon
+// made an option for the timer 
+// minor buff to the autosmacker
+
+// Patch 1.3.2
+// major nerf to the smack cannon
+// added a way to reset the timer
+// minor text position changes
+// minor scp nerf
+
+// Patch 1.3.3
+// New smack turret
+// FPS toggle option
+// rename time stat to timer
+// minor autosmacker nerf
+// autosmacker is now cheaper
+// timer now pauses when hidden
+// slight optimizations to the autosmacker and smackturret
+
+// Patch 1.3.4
+// optimized shop buttons
+
+// Patch 1.4.0
+// added the ability to save progress
+// allows you to delete your save
+// optimized the loop
+
+// Patch 1.4.1
+// fixed fps starting at 0
+// re-organized the code
+
+// Patch 1.4.2
+// hot fixed prestige
+
+// Patch 1.4.3
+// made every chicken more expensive
+// made prestige 300mill from 15mill
+// added prestige points
+
+// Patch 1.4.4
+// hotfixed fps text position
+
+// Patch 1.5.0
+// Added skins GUI
+// New royal skins
+// redid the default 50 mill chicken
+// fixed saving issues
+// fixed 1.4.3 changes
+
+// Patch 1.5.1
+// Fixed mobile text issues in the skin gui
+
+// Patch 1.5.2
+// Fixed clickmult
+
+// Patch 1.5.3
+// Added a "confirm" button when resetting progress
+
+// Patch 1.6.0
+// Added achievements
+// added an alert on save
+
+// Patch 1.6.1
+// hotfixed clickmult
+
+// Patch 1.6.2
+// hotfixed mobile text
+
+// Patch 1.6.3
+// added a new acheivement
+// made the prestige price go up
+
+// Patch 1.6.4
+// Hotfixed the achievement GUI
